@@ -1,0 +1,11 @@
+{
+  "name": "Namma Voice",
+  "description": "Namma Voice (நம்ம குரல்) is an AI-powered civic accountability platform enabling citizens of Tamil Nadu to report civic issues and verify their resolutions securely.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
